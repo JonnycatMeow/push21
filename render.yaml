@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: Astroid V3
+    name: iampushing21
     env: node
     buildCommand: npm install
     startCommand: npm start
